@@ -1,0 +1,18 @@
+.resources-panel {
+    height: 60px;
+    display: flex;
+}
+
+.resources-panel__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.resources-panel__coins {
+    width: 30px;
+}
+
+.resources-panel__coins-income {
+    width: 10px;
+}

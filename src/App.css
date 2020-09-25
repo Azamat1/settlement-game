@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+.App-content {
+  min-width: 980px;
+  min-height: 100%;
+}

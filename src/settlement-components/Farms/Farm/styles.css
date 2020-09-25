@@ -1,0 +1,12 @@
+.farm {
+    height: 250px;
+    width: 300px;
+    display: flex;
+}
+
+.farm__info-panel {
+    width: 50px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+}
